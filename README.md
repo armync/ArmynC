@@ -1,6 +1,5 @@
 <h1 align="center">
-  <br>
-  <a href="https://www.arminc.ga/"><img src="https://www.arminc.ga/resources/arminc.png" alt="ArminC" width="400" height="200"></a>
+  <a href="https://www.arminc.ga/"><img src="https://www.arminc.ga/resources/arminc.png" alt="ArminC" width="300" height="150"></a>
 </h1>
 
 <h4 align="center">Open-source, tech and gaming lover.</h4>
