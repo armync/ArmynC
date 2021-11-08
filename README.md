@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://www.arminc.ga/"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/arminc.png" alt="ArminC" width="300" height="150"></a>
+  <a href="https://github.com/armync"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/arminc.png" alt="ArminC" width="300" height="150"></a>
 </h1>
 
 <h4 align="center">❮ Open ⤫ Community ❯</h4>
