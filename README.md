@@ -1,8 +1,8 @@
 <h1 align="center">
-  <a href="https://www.arminc.ga/"><img src="https://www.arminc.ga/resources/arminc.png" alt="ArminC" width="300" height="150"></a>
+  <a href="https://www.arminc.ga/"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/arminc.png" alt="ArminC" width="300" height="150"></a>
 </h1>
 
-<h4 align="center">Open-source, tech and gaming lover.</h4>
+<h4 align="center">❮ Open ⤫ Community ❯</h4>
 
 <p align="center">
   <a href="https://steamcommunity.com/id/arminc/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>&nbsp;
