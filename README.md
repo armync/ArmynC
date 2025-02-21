@@ -5,8 +5,8 @@
 <h4 align="center">❮ Open ⤫ Community ❯</h4>
 
 <p align="center">
-  <a href="https://steamcommunity.com/id/arminc/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/arminc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:arminandrey@gmail.com?subject=Mail From GitHub Profile"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/sponsors/armync"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white"/></a>
-</p
+  <a href="mailto:arminandrey@gmail.com?subject=[GitHub Mail] Subject"><img src="https://img.shields.io/badge/-Mail-red?style=flat&logo=mailgun&labelColor=white"/></a>&nbsp;
+  <a href="@arminc.bsky.social"><img src="https://img.shields.io/badge/-Bluesky-blue?style=flat&logo=bluesky&labelColor=white"/></a>&nbsp;
+  <a href="https://steamcommunity.com/id/arminc/"><img src="https://img.shields.io/badge/-Steam-black?style=flat&logo=Steam&logoColor=black&labelColor=white"/></a>&nbsp;
+  <a href="https://github.com/sponsors/armync"><img src="https://img.shields.io/badge/Sponsor--green?style=flat&logo=undertale&logoColor=green&color=white"/></a>
+</p>
